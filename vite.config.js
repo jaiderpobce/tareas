@@ -4,5 +4,5 @@ import {defineConfig} from 'vite'
 
 export default defineConfig({
   //base: '/tareas/'
-  base:'https://jaiderpobce.github.io/tarea/'
+  base:'https://jaiderpobce.github.io/tareas/'
 })
